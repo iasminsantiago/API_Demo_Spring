@@ -1,10 +1,10 @@
-# demo-springboot
+# **Primeiro projeto Spring Boot — API REST com Java 21**
+
 
 Projeto básico para melhor entendimento de rotas, annotations, dependências e conceitos de uma API feita com Spring Boot.
 Você pode conferir anotações que refletem meu aprendizado detalhadamente nos arquivos [DemoSpringbootApplication.java](https://github.com/iasminsantiago/API_Demo_Spring/blob/main/demo-springboot/src/main/java/br/com/iasminsantiago/demo_springboot/DemoSpringbootApplication.java), [application.properties](https://github.com/iasminsantiago/API_Demo_Spring/blob/main/demo-springboot/src/main/resources/application.properties) e [pom.xml](https://github.com/iasminsantiago/API_Demo_Spring/blob/main/demo-springboot/pom.xml). 
 
 
-**Primeiro projeto Spring Boot — API REST com Java 21**
 
 Desenvolvido por **Iasmin Santiago**  
 Baseado na aula de Giuliana Bezerra
